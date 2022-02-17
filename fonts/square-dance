@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'SquareDance00';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SquareDance00'), url('https://fonts.cdnfonts.com/s/7683/squaredance00.woff') format('woff');
+}
+@font-face {
+    font-family: 'SquareDance10';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SquareDance10'), url('https://fonts.cdnfonts.com/s/7683/squaredance10.woff') format('woff');
+}
+@font-face {
+    font-family: 'SquareDance01';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SquareDance01'), url('https://fonts.cdnfonts.com/s/7683/squaredance01.woff') format('woff');
+}
+@font-face {
+    font-family: 'SquareDance03';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SquareDance03'), url('https://fonts.cdnfonts.com/s/7683/squaredance03.woff') format('woff');
+}
+
